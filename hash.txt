@@ -1,0 +1,4 @@
+13bb1d165c07ceb6e2d84a9a88331629e9c4287d
+This is my Git challenge file.
+100644 13bb1d165c07ceb6e2d84a9a88331629e9c4287d 0	challenge.txt
+100644 e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 0	hash.txt
